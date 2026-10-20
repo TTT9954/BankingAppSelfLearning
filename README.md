@@ -1,7 +1,5 @@
 # BankingApp Small — Qt Quick/QML + C++
 
-A small desktop banking UI demo using Qt 6, QML, C++17, CMake, and Qt Test.
-
 ## Included
 - Demo login screen
 - Dashboard with account balance
@@ -12,11 +10,6 @@ A small desktop banking UI demo using Qt 6, QML, C++17, CMake, and Qt Test.
 
 ## Safety
 This is a learning/portfolio demo only. It is not connected to a bank and does not move real money. The demo credentials are hard-coded for simplicity. Do not use real passwords or financial data.
-
-## Requirements
-- Qt 6.4 or later
-- Qt Creator or CMake and a compatible C++ compiler
-- Qt modules: Quick, Quick Controls 2, Test
 
 ## Build with Qt Creator
 1. Extract this ZIP.
