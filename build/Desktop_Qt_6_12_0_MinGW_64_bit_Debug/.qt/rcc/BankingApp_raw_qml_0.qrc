@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/BankingApp/">
+    <file alias="ui/Main.qml">E:/HCL/BankingApp_SelfLearning/ui/Main.qml</file>
+    <file alias="ui/LoginPage.qml">E:/HCL/BankingApp_SelfLearning/ui/LoginPage.qml</file>
+    <file alias="ui/DashboardPage.qml">E:/HCL/BankingApp_SelfLearning/ui/DashboardPage.qml</file>
+  </qresource>
+</RCC>
+

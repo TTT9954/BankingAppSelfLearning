@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/BankingApp">
+    <file alias="qmldir">E:/HCL/BankingApp_SelfLearning/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/BankingApp/qmldir</file>
+  </qresource>
+</RCC>
+

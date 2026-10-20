@@ -1,0 +1,9 @@
+-rootPath
+E:/HCL/BankingApp_SelfLearning
+-cmake-output
+-output-file
+E:/HCL/BankingApp_SelfLearning/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/qml_imports/tst_banking_conf.cmake
+-importPath
+E:/HCL/BankingApp_SelfLearning/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-importPath
+C:/Qt/6.12.0/mingw_64/qml

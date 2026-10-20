@@ -1,0 +1,7 @@
+--resource
+E:/HCL/BankingApp_SelfLearning/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_BankingApp.qrc
+--resource
+E:/HCL/BankingApp_SelfLearning/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/BankingApp_raw_qml_0.qrc
+/BankingApp/ui/Main.qml
+/BankingApp/ui/LoginPage.qml
+/BankingApp/ui/DashboardPage.qml

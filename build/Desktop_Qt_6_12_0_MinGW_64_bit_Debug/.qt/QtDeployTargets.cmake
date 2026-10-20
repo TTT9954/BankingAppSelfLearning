@@ -1,0 +1,7 @@
+set(__QT_DEPLOY_TARGETS "BankingApp;tst_banking")
+set(__QT_DEPLOY_TARGET_BankingApp_FILE E:/HCL/BankingApp_SelfLearning/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/BankingApp.exe)
+set(__QT_DEPLOY_TARGET_BankingApp_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_BankingApp_RUNTIME_DLLS C:/Qt/6.12.0/mingw_64/bin/Qt6QuickControls2.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6QuickTemplates2.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6Quick.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6OpenGL.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6QmlMeta.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6QmlWorkerScript.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6QmlModels.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6Qml.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6Network.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6Core.dll)
+set(__QT_DEPLOY_TARGET_tst_banking_FILE E:/HCL/BankingApp_SelfLearning/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/tst_banking.exe)
+set(__QT_DEPLOY_TARGET_tst_banking_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_tst_banking_RUNTIME_DLLS C:/Qt/6.12.0/mingw_64/bin/Qt6Quick.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6Test.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6OpenGL.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6QmlMeta.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6QmlModels.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6QmlWorkerScript.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6Qml.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6Network.dll;C:/Qt/6.12.0/mingw_64/bin/Qt6Core.dll)

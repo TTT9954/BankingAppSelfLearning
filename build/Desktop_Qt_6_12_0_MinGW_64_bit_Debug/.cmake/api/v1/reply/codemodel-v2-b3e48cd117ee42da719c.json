@@ -1,0 +1,276 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BankingAppSmall",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BankingApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BankingApp-Debug-d608b61f58eb1de706d9.json",
+					"name" : "BankingApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BankingApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BankingApp_autogen-Debug-9ad19a5c7bb267bcbe92.json",
+					"name" : "BankingApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BankingApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BankingApp_autogen_timestamp_deps-Debug-f63ba6dc9fdc96a6e7e7.json",
+					"name" : "BankingApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BankingApp_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BankingApp_copy_qml-Debug-d1fde0f117af3181af07.json",
+					"name" : "BankingApp_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BankingApp_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BankingApp_copy_res-Debug-a81aaaf9889032153e1c.json",
+					"name" : "BankingApp_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BankingApp_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BankingApp_qmlimportscan-Debug-eed355bc27b75117add7.json",
+					"name" : "BankingApp_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BankingApp_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BankingApp_qmllint-Debug-a966351732488bc4484a.json",
+					"name" : "BankingApp_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BankingApp_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BankingApp_qmllint_json-Debug-6d736342216282014974.json",
+					"name" : "BankingApp_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BankingApp_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BankingApp_qmllint_module-Debug-ac40d1662fdc9f4d64ad.json",
+					"name" : "BankingApp_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BankingApp_qmlpreview::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BankingApp_qmlpreview-Debug-50f350a0ca48d78a8050.json",
+					"name" : "BankingApp_qmlpreview",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BankingApp_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BankingApp_qmltyperegistration-Debug-c4014389f086cb1c73fa.json",
+					"name" : "BankingApp_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-5c8dd4a4f059b5a3ad12.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-a11ee2144bb8783420ea.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-b43f300508cfa1747117.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-b9749ee8cd276b08c682.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-87805b0d5b8765d19eb4.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clean_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean_qml_context_properties-Debug-490fe54cfeee9f58cdb3.json",
+					"name" : "clean_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dump_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dump_qml_context_properties-Debug-e72a3bdbfc199acfa351.json",
+					"name" : "dump_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_finalqtconf_BankingApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_finalqtconf_BankingApp-Debug-d2473623003d13f7ab57.json",
+					"name" : "generate_finalqtconf_BankingApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-480bba932d553502c9eb.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_BankingApp_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_BankingApp_aotstats_target-Debug-87d639dfbbc98aa580b3.json",
+					"name" : "module_BankingApp_aotstats_target",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tst_banking::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tst_banking-Debug-391a69f49d3fce1d1520.json",
+					"name" : "tst_banking",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tst_banking_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tst_banking_autogen-Debug-a4dcd6f61ff50b12e36b.json",
+					"name" : "tst_banking_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tst_banking_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tst_banking_autogen_timestamp_deps-Debug-ee8c6cea1cb337798fcd.json",
+					"name" : "tst_banking_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tst_banking_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tst_banking_qmlimportscan-Debug-63baae99ea456e1eecaa.json",
+					"name" : "tst_banking_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/HCL/BankingApp_SelfLearning/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+		"source" : "E:/HCL/BankingApp_SelfLearning"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

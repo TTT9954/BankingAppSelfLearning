@@ -1,0 +1,8 @@
+module BankingApp
+typeinfo BankingApp.qmltypes
+prefer :/BankingApp/
+Main 1.0 ui/Main.qml
+LoginPage 1.0 ui/LoginPage.qml
+DashboardPage 1.0 ui/DashboardPage.qml
+depends QtQuick
+

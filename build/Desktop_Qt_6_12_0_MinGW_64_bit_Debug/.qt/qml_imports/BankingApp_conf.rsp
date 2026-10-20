@@ -1,0 +1,14 @@
+-rootPath
+E:/HCL/BankingApp_SelfLearning
+-cmake-output
+-output-file
+E:/HCL/BankingApp_SelfLearning/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/qml_imports/BankingApp_conf.cmake
+-importPath
+E:/HCL/BankingApp_SelfLearning/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-importPath
+E:/HCL/BankingApp_SelfLearning/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/BankingApp
+-importPath
+C:/Qt/6.12.0/mingw_64/qml
+-qrcFiles
+E:/HCL/BankingApp_SelfLearning/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_BankingApp.qrc
+E:/HCL/BankingApp_SelfLearning/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/BankingApp_raw_qml_0.qrc
